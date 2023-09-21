@@ -1,0 +1,114 @@
+{
+  "categorias": [
+    {
+      "id": 1,
+      "titulo": "Lazer"
+    },
+    {
+      "id": 2,
+      "titulo": "Jogos"
+    },
+    {
+      "id": 3,
+      "titulo": "Compra"
+    }
+  ],
+  "notas": [
+    {
+      "titulo": "ifhjkifghj",
+      "conteudo": "fdgfdh",
+      "tema": "info",
+      "categoriaId": "2",
+      "categoria": {
+        "id": 2,
+        "titulo": "Jogos"
+      },
+      "id": 1,
+      "arquivada": false
+    },
+    {
+      "titulo": "fgngm",
+      "conteudo": "jkjhlkkj",
+      "tema": "info",
+      "categoriaId": "1",
+      "arquivada": true,
+      "categoria": {
+        "id": 1,
+        "titulo": "Lazer"
+      },
+      "id": 2
+    },
+    {
+      "titulo": "Ir no parque",
+      "conteudo": "andar",
+      "tema": "info",
+      "categoriaId": "1",
+      "arquivada": true,
+      "categoria": {
+        "id": 1,
+        "titulo": "Lazer"
+      },
+      "id": 4
+    },
+    {
+      "titulo": "jhkhj",
+      "conteudo": "khjgkjhgk",
+      "tema": "info",
+      "categoriaId": "2",
+      "arquivada": true,
+      "categoria": {
+        "id": 2,
+        "titulo": "Jogos"
+      },
+      "id": 5
+    },
+    {
+      "titulo": "Lavar o cachorro 🦮",
+      "conteudo": "pegar shampoo",
+      "tema": "info",
+      "categoriaId": "1",
+      "arquivada": true,
+      "categoria": {
+        "id": 1,
+        "titulo": "Lazer"
+      },
+      "id": 6
+    },
+    {
+      "titulo": "Lavar o cachorro 🦮vcbvcn",
+      "conteudo": "fghgfjgh",
+      "tema": "danger",
+      "categoriaId": "1",
+      "arquivada": false,
+      "categoria": {
+        "id": 1,
+        "titulo": "Lazer"
+      },
+      "id": 7
+    },
+    {
+      "titulo": "jfhgfjh",
+      "conteudo": "hgjhfgk",
+      "tema": "dark",
+      "categoriaId": "2",
+      "arquivada": false,
+      "categoria": {
+        "id": 2,
+        "titulo": "Jogos"
+      },
+      "id": 8
+    },
+    {
+      "titulo": "aaa",
+      "conteudo": "aaa",
+      "tema": "dark",
+      "categoriaId": "3",
+      "arquivada": false,
+      "categoria": {
+        "id": 3,
+        "titulo": "Compra"
+      },
+      "id": 9
+    }
+  ]
+}
